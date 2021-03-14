@@ -1,0 +1,31 @@
+select * from sh_productos.productos;
+select * from sh_productos.control_costo;
+
+
+
+
+select * from sh_puntoventa.ventas;
+select * from sh_puntoventa.detalle_venta;
+
+
+select * from sh_puntoventa.perdidas;
+select * from sh_puntoventa.detalle_perdida;
+
+
+select * from sh_personas.personas;
+select * from sh_personas.direcciones;
+select * from sh_personas.detalle_direccion;
+
+
+
+select * from sh_asesoria.asesorias;
+
+select * from sh_asesoria.planes_acesorias;
+
+
+
+select * from  sh_auditoria.auditorias;
+
+\dt sh_puntoventa.
+
+\dv sh_puntoventa.
